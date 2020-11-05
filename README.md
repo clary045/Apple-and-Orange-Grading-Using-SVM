@@ -4,6 +4,6 @@ It contains the following script:
 2. Training SVM model 
 3. Evaluating SVM classifier model
 4. Saving SVM train model
-5. testing the saved model in realtime using raspberry pi camera
+5. testing the SVM saved model in realtime using raspberry pi camera
 
 For more infor on this contact me on my email : clarida045@gmail.com
