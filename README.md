@@ -4,3 +4,5 @@ It contains the following script
 2.	Evaluating the model performance
 3.  Saved Model
 3.	Testing the saved model in real time
+
+For more infor on this contact me on my email : clarida045@gmail.com
