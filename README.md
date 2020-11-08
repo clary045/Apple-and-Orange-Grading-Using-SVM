@@ -1,5 +1,5 @@
 This project is about classifying Orange and Apple fruit based on support vector machine (SVM) algorithm.
-It contains the following script:
+It contains the following script in two main file:
 1. Preparing datasheet 
 2. Training SVM model 
 3. Evaluating SVM classifier model
