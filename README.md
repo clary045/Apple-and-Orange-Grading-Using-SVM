@@ -12,4 +12,5 @@ Requirements:
 3. raspberry pi camera 
 4. raspberry pi ( your choice for model type but prefer raspberry pi 4 model B with faster RAM)
 
+A video demontration on this can be found at: https://youtu.be/IHFCdor68Iw
 For more infor on this contact me on my email : clarida045@gmail.com
