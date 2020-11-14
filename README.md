@@ -8,7 +8,7 @@ It contains the following script in two main file:
 
 Requirements:
 1. dataset image for orange and apple class
-2. Libraries e.g sklearn package
+2. Libraries e.g sklearn package, numpy, opencv etc.
 3. raspberry pi camera 
 4. raspberry pi ( your choice for model type but prefer raspberry pi 4 model B with faster RAM)
 
