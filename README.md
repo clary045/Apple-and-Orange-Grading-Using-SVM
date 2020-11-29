@@ -13,4 +13,5 @@ Requirements:
 4. raspberry pi ( your choice for model type but prefer raspberry pi 4 model B with faster processor)
 
 A video demontration on this can be found at: https://youtu.be/IHFCdor68Iw
-For more infor on this contact me on my email : clarida045@gmail.com
+
+For reporting bugs or help regarding any aspect of the SVM algorithm, please email: clarida045@gmail.com
