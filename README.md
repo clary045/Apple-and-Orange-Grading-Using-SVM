@@ -4,7 +4,7 @@ It contains the following script in two main file:
 2. Training SVM model 
 3. Evaluating SVM classifier model
 4. Saving SVM train model
-5. testing the SVM saved model in realtime using raspberry pi camera
+5. testing the saved SVM model in realtime using raspberry pi camera
 
 Requirements:
 1. dataset image for orange and apple class
