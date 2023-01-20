@@ -14,4 +14,4 @@ Requirements:
 
 A video demontration on this can be found at: https://youtu.be/IHFCdor68Iw
 
-For reporting bugs or help regarding any aspect of the SVM algorithm, please email: clarida045@gmail.com
+For reporting bugs or help regarding any aspect of the SVM algorithm, please do email: clarida045@gmail.com
